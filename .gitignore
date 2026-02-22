@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (large files should use Git LFS or external hosting)
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.h5
+!data/public-sources/*.csv
+
+# Sensitive
+*.env
+*.key
+*.pem
