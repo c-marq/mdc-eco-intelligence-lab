@@ -144,7 +144,7 @@ This project is funded by the **U.S. Environmental Protection Agency** Environme
 Professor Carlos Marquez  
 Applied AI and Data Analytics  
 Miami Dade College — Kendall Campus  
-*[email to be added]*
+*[cmarque1@mdc.edu]*
 
 ---
 
